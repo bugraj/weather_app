@@ -1,3 +1,7 @@
+A Weather Forecast Application built with React JS, providing real-time weather data and a 7-day forecast for over 100 cities in India. This responsive app uses Axios for data fetching and implements advanced React features like useReducer, useContext, and useEffect for efficient state management and user experience. It’s designed to deliver accurate, up-to-date weather information in a clean and intuitive interface.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
